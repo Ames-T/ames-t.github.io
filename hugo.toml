@@ -17,7 +17,7 @@ theme = "hugo-blog-awesome"
 # modern way: pull in theme component as hugo module
 [module]
   # Uncomment the next line to build and serve using local theme clone declared in the named Hugo workspace:
-  workspace = "hugo-blog-awesome.work"
+  # workspace = "hugo-blog-awesome.work"
   #[module.hugoVersion]
     #extended = true
     #min = "0.87.0"
