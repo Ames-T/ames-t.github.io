@@ -1,4 +1,4 @@
-module github.com/ames-t/site
+module github.com/ames-t/blog
 
 go 1.24.4
 
