@@ -27,7 +27,7 @@ In this version, it's specifications will be as follows:
 - 16-Bit Jump register
 - 16-Bit Instruction register
 - 16-Bit Program Counter
-- 32k 16-bit SRAM
+- 32k $\times$ 16-bit SRAM
 
 ## Design Justification
 
