@@ -66,6 +66,11 @@ The operations I have in mind are:
 | PASS B    | $B$    |
 | ZERO      | $0$    |
 
+### Operation Justifications
+These operations have a reasonable range of computational capability without massively increasing hardware complexity.
+If I do create a less abstracted processor, This set will be reduced to NOP, ADD, INC, AND, OR, XOR, NOT, SHL.
+
+
 ### OPCODES
 
 | OPCODE | OPERATION |
