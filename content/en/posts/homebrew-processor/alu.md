@@ -3,6 +3,7 @@ title = 'Homebrew Processor - ALU'
 date = 2026-03-01T21:00:00Z
 draft = false
 math = true
+tags = ["homebrew-processor"]
 +++
 
 ## ALU

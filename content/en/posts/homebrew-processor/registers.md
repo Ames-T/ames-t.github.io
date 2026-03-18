@@ -3,6 +3,7 @@ title = 'Homebrew Processor - Registers and Buses'
 date = 2026-02-22T21:00:00Z
 draft = false
 math = true
+tags = ["homebrew-processor"]
 +++
 
 ## Registers

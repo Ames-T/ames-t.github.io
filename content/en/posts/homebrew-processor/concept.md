@@ -3,6 +3,7 @@ title = 'Homebrew Processor - Project Concept'
 date = 2026-02-08T21:09:15Z
 draft = false
 math = true
+tags = ["homebrew-processor"]
 +++
 
 For many years now, I have been keen to expand my low-level computing knowledge, ever since my electronics teacher told me it's possible to make a processor purely out of NAND gates.

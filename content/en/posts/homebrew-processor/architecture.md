@@ -3,6 +3,7 @@ title = 'Homebrew Processor - Architecture'
 date = 2026-02-15T21:00:00Z
 draft = false
 math = true
+tags = ["homebrew-processor"]
 +++
 
 As discussed in my [previous post](posts/homebrew-processor/concept/) I am starting work on my homebrew 16-bit processor. The fist step on this journey is to pick an architecture.
