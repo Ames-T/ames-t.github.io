@@ -4,9 +4,10 @@ date = 2026-03-01T21:00:00Z
 draft = false
 math = true
 tags = ["AT-RISC"]
+toc = true
 +++
 
-# AT-RISC Processor Motivations.
+## AT-RISC Processor Motivations.
 
 For many years I have wanted to make my own processor, not just in Verilog but a physical, breadboard or PCB processor.
 
@@ -14,7 +15,7 @@ After previously simulating a SAP-1 processor on Logisim, I have become keen to 
 
 AT-RISC is a fun play on my initials (AT) and the term RISC, which stands for Reduced Instruction Set Computer. I sometimes end the AT-RISC title with 16, to show that it is a 16-bit processor.
 
-# Inspirations
+## Inspirations
 
 I have a whole load of inspirations for this processor, but I will list the main few.
 
@@ -26,7 +27,7 @@ I have a whole load of inspirations for this processor, but I will list the main
 
 [**James Sharman**](https://www.youtube.com/@weirdboyjim) - Has an unbelievably underrated and long running series on his jam-1 processor, I am heavily inspired by his PCB layout design. As well as his work on IO for his processor.
 
-# My Specification
+## My Specification
 
 There is no point in setting *too* much in stone as fas as the design at the moment, however there are some key ideas I wish to follow.
 
@@ -38,7 +39,7 @@ There is no point in setting *too* much in stone as fas as the design at the mom
 
 **PCB Based Design** - Modularising the deign as much as possible, via a bunch of PCBs on a series of backplanes. I refer to Fabian Schuiki and James Sharmans designs.
 
-# Architecture
+## Architecture
 
 I won't go into too much detail, but I will include my current sketch of the processor architecture. As previously stated it will follow a RISC-Style pipeline.
 
@@ -46,7 +47,7 @@ I won't go into too much detail, but I will include my current sketch of the pro
 
 It is worth noting that this diagram is incomplete and will evolve as this project grows.
 
-# Build process
+## Build process
 
 The build process for this project will aim to follow the following steps
 

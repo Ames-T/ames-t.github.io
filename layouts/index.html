@@ -6,7 +6,7 @@
   <main aria-label="Content">
 
     <h3 class="posts-item-note">Homebrew Processor</h3>
-    {{ range sort (where .Site.RegularPages "Params.tags" "intersect" (slice "homebrew-processor")) "Date" "desc" }}
+    {{ range sort (where .Site.RegularPages "Params.tags" "intersect" (slice "AT-RISC")) "Date" "desc" }}
       {{ partial "postCard.html" . }}
     {{ end }}
 
