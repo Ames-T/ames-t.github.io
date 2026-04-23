@@ -5,7 +5,7 @@
 <div class="wrapper">
   <main aria-label="Content">
 
-    <h3 class="posts-item-note">Homebrew Processor</h3>
+    <h3 class="posts-item-note">AT-RISC Processor</h3>
     {{ range sort (where .Site.RegularPages "Params.tags" "intersect" (slice "AT-RISC")) "Date" "desc" }}
       {{ partial "postCard.html" . }}
     {{ end }}
