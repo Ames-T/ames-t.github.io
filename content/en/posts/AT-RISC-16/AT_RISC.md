@@ -1,5 +1,5 @@
 +++
-title = 'AT RISC Processor'
+title = 'AT-RISC Processor'
 date = 2026-03-01T21:00:00Z
 draft = false
 math = true
